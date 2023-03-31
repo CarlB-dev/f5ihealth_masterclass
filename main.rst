@@ -4,7 +4,7 @@
 		c. Settings to make iHealth more functional for the users.
 		d. iHealth GUI overview
 			i. Status page
-			ii. Config Explorer
+			ii. Config Explorer 
 			iii. Commands
 			iv. Graphs
 			v. Diagnostics
