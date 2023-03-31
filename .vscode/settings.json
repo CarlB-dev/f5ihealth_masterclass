@@ -1,0 +1,9 @@
+{
+    "restructuredtext.linter.doc8.extraArgs": [],
+    "esbonio.server.showOutputOnError": true,
+    "python.defaultInterpreterPath": "",
+    "esbonio.sphinx.buildDir" : "${workspaceFolder}/_build/html",
+    "esbonio.sphinx.confDir"  : "${workspaceFolder}",
+    "esbonio.sphinx.srcDir"   : "${workspaceFolder}"
+
+}
