@@ -12,7 +12,7 @@
 			vii. iApps
 			viii. Log Search
 			ix. Security
-			x. Bug Tracker
+			x. Bug Tracker 
 	2. Customizing the iHealth system
 		a. Configuring command groups
 		b. Configuring Config Explorer links
