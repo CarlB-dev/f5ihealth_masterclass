@@ -39,11 +39,14 @@ There are many sources here which have valuable data, but I mainly use these.
 
 ## <a name=commandsgroups></a> Commands --> Group
 
-As you work to investigate issues on your devices, you can group relevant commands together and name the groups as you see like.  This gives you a shortcut to the data you seek in your qkview and can return all of the commands on a single page for your review.
+As you work to investigate issues on your devices, you can group relevant commands together and name the groups as you see like.  This gives you a shortcut to the data you seek in your qkview and can return all of the commands on a single page for your review. This follows your account across any qkview that you upload.
 
 ## <a name=graphgroups></a> Graphs --> Groups
 
-some content 4
+Similar to command groups, but with a couple differences. Specifically, the Graph groups you create will only follow qkviews from devices that have the same version number.  
+
+This feature allows you to stack rrd and other data sets in a manner that can help you understand causation and correlation.
+
 
 ## <a name=securitygeneral></a> Security Overview --> General Tab
 
