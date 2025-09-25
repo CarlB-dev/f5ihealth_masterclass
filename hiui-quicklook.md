@@ -1,5 +1,5 @@
 
-Time limited review, what I look for and where:
+When time is limited,these are some of what I look for and where:
 - Status Overview page
 	- Platform(hardware, Vcmp/Tenant, or virtual)
 	- Version (does it have a EHF applied)
