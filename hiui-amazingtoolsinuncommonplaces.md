@@ -1,3 +1,7 @@
+[Security Overview --> General Tab](#securitygeneral)
+
+[Security Overview --> Performance Tab](#securityperf)
+
 [Commands --> Standard --> Utilities](#commandsutilities)
 
 [Commands --> Standard --> Unix --> TMOS](#commandstmos)
@@ -6,10 +10,13 @@
 
 [Graphs --> Groups](#graphgroups)
 
-[Security Overview --> General Tab](#securitygeneral)
+## <a name=securitygeneral></a> Security Overview --> General Tab
 
-[Security Overview --> Performance Tab](#securityperf)
+some content 5 
 
+## <a name=securityperf></a> Security Overview --> Performance Tab
+
+some content 6
 
 ## <a name=commandsutilities></a> Commands --> Standard --> Utilities
 
@@ -45,13 +52,16 @@ As you work to investigate issues on your devices, you can group relevant comman
 
 Similar to command groups, but with a couple differences. Specifically, the Graph groups you create will only follow qkviews from devices that have the same version number.  
 
-This feature allows you to stack rrd and other data sets in a manner that can help you understand causation and correlation.
+This feature allows you to stack rrd and Predefined Interactive data sets in a manner that can help you understand causation and correlation.  
+
+The predefined interactive graphs allow you to zoom in on the data and filter out some of the data series within the graph itself.  Below are some of the predefined interactive graphs you should get familiar with:
+
+- **TM Stat - Top 10 Virtual Servers - Client-side Bits In**
+- **TM Stat - Top 10 Virtual Servers - Client-side Bits Out**
+- **RRD - Throughput- Bits**
+- **RRD - Plane CPU Usage**
+- **RRD - Active Connections Client/Server**
+- **RRD - Blade 0 CPU Usage By Core**
+- **RRD - SSL Transactions**
 
 
-## <a name=securitygeneral></a> Security Overview --> General Tab
-
-some content 5 
-
-## <a name=securityperf></a> Security Overview --> Performance Tab
-
-some content 6
